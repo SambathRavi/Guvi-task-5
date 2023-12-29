@@ -1,0 +1,79 @@
+{
+    "personalInformation": {
+      "firstName": "Arjun",
+      "lastName": "Kumar",
+      "address": "123 Main Street, Chennai, Tamil Nadu, 600001",
+      "phone": "555-1234",
+      "email": "arjun.kumar@email.com"
+    },
+    "professionalSummary": "Results-oriented professional with over 5 years of experience in IT project management. Proven track record of successfully leading teams to deliver projects on time and within budget.",
+    "education": {
+      "degree": "Bachelor of Technology in Computer Science",
+      "university": "Anna University",
+      "graduationYear": 2015
+    },
+    "workExperience": [
+      {
+        "position": "Senior Project Manager",
+        "company": "Tech Innovators",
+        "location": "Chennai, Tamil Nadu",
+        "startDate": "2017-01-01",
+        "endDate": "2022-05-31",
+        "responsibilities": [
+          "Led a cross-functional team of 10 members in the successful implementation of a critical software upgrade, resulting in a 20% increase in system efficiency.",
+          "Managed project budgets totaling $2 million, ensuring optimal resource allocation and cost control.",
+          "Collaborated with stakeholders to define project scope, objectives, and deliverables."
+        ]
+      },
+      {
+        "position": "Project Coordinator",
+        "company": "Software Solutions India",
+        "location": "Chennai, Tamil Nadu",
+        "startDate": "2015-06-01",
+        "endDate": "2016-12-31",
+        "responsibilities": [
+          "Assisted in the planning and execution of various IT projects, ensuring adherence to timelines and quality standards.",
+          "Facilitated communication between development teams and clients, addressing concerns and ensuring client satisfaction.",
+          "Prepared and maintained project documentation, including project plans, status reports, and risk assessments."
+        ]
+      }
+    ],
+    "skills": [
+      "Project Management",
+      "Team Leadership",
+      "Risk Assessment",
+      "Budget Management",
+      "Communication Skills",
+      "Problem Solving"
+    ],
+    "certifications": [
+      {
+        "name": "Project Management Professional (PMP)",
+        "issuingOrganization": "Project Management Institute (PMI)",
+        "year": 2018
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Fluent"
+      
+    }
+      ],
+    "references": [
+      {
+        "name": "Priya Devi",
+        "position": "Director of Operations",
+        "company": "Tech Innovators",
+        "phone": "555-5678",
+        "email": "priya.devi@email.com"
+      },
+      {
+        "name": "Rajesh Patel",
+        "position": "Senior Software Engineer",
+        "company": "Software Solutions India",
+        "phone": "555-8765",
+        "email": "rajesh.patel@email.com"
+      }
+    ]
+  }
